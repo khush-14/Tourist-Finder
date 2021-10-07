@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TouristFinderApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hotelTrends">Visit Our Assure hotel provide all luxury facility and Environment like home</string>
+    <string name="offersTrends">Check our Latest Exciting offers</string>
+    <string name="tripTrends">Come out from home let celebrate with your Friends,the trip you will remember with your friends</string>
+
+</resources>
